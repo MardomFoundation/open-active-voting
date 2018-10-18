@@ -1,3 +1,5 @@
+# This branch is working on yrpri platform for make it suitable for rtl languages [Persian].
+
 # Open Active Voting
 
 ### Simple ballot based voting system.
